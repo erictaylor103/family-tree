@@ -23,7 +23,7 @@ A web-based family tree application that allows users to manage and visualize fa
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone git@github.com:erictaylor103/family-tree.git
 ```
 
 2. Set up your database:
